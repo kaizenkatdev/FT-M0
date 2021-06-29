@@ -1,5 +1,21 @@
+body{
+    background-image: url("https://i.pinimg.com/736x/ac/d2/20/acd2208344780476b06dd7dc8d7fd0ec.jpg");
+    color: rgb(236, 182, 182);
+    margin: 0 auto;    
+}
+
+#main{
+    width: 600px;
+    margin: 0 auto;
+}
+
+
 h1{
     color:#06b1a8d8 ;
+    text-align: center;
+}
+div{
+    text-align: center;
 }
 img{
     width: 400px;    
@@ -15,3 +31,6 @@ img{
     font-size: 18px;
     margin: 50px;
 }
+
+  
+ 
